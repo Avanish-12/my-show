@@ -1,0 +1,33 @@
+.compo_9A{
+    background-color: rgb(64, 62, 62);
+    border-radius: 15%;
+    
+    min-width: 31vw;
+    max-height: 24vw;
+    
+   
+    
+     margin-top: 0px;
+     margin-left: 30px;
+     padding: 15px;
+     position: relative;
+     top: -34vw;
+}
+.compo_9C{
+   
+    position: relative;
+    top: -4vw;
+    left: 28vw;
+
+}
+
+.compo_9D{
+    position: relative;
+    top: -2vw;
+    left: 0vw;
+
+}
+.App{
+    padding-top: 20px;
+   
+}

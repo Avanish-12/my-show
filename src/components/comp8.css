@@ -1,0 +1,23 @@
+.compo_8A{
+    background-color: rgb(58, 24, 228);
+    border-radius: 15%;
+    
+    max-width: 17vw;
+    min-height: 13.5vw;
+    
+   
+    
+     margin-top: 0px;
+     margin-left: 30px;
+     padding: 22px;
+     position: relative;
+     top: -24vw;
+
+     
+        
+    
+}
+.App{
+    padding-top: 20px;
+   
+}

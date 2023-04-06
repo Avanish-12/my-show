@@ -1,11 +1,72 @@
-.App {
-  text-align: center;
+
+.App{
+  height: 100%; /* Make this site really long */
+  width: 100%; /* Make this site really wide */
+  overflow: hidden; /* Hide scrollbars */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.App-header {
+display: inline-flex;
+  font-size: calc(6px + 2vmin);
+  color: aliceblue;
+  padding: 0px;
 }
+.App-header_1{
+  display: inline-flex;
+  font-size: calc(6px + 2vmin);
+  color: aliceblue;
+  padding: 5px;
+ }
+ .App-header_4{
+  display: inline-flex;
+  font-size: calc(6px+ 2vmin);
+  color: aliceblue;
+  padding: 0vw ;
+  padding-top: 2vw;
+  
+ }
+ .App-header_5{
+  display: inline-block;
+  font-size: calc(6px+ 2vmin);
+  color: aliceblue;
+  padding: 0vw ;
+  padding-top: 0vw;
+ }
+ .App-header_6{
+  display: inline-block;
+  font-size: calc(6px+ 2vmin);
+  color: aliceblue;
+  padding: 18vw ;
+  padding-top: 0vw;
+ }
+
+ .App-header_7{
+  display: inline-block;
+  font-size: calc(6px+ 2vmin);
+  color: aliceblue;
+  padding: 0vw ;
+  padding-top: 0vw;
+ }
+
+ .App-header_8{
+  display: inline-flex;
+  font-size: calc(6px+ 2vmin);
+  color: aliceblue;
+  padding: 0vw ;
+  padding-top: 0vw;
+ }
+
+ .App-header_9{
+  display: inline-flex;
+  font-size: calc(6px+ 2vmin);
+  color: aliceblue;
+  padding: 0vw ;
+  padding-top: 0vw;
+ }
+
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -13,20 +74,9 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
+
+
 
 @keyframes App-logo-spin {
   from {

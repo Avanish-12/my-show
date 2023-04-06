@@ -1,0 +1,43 @@
+.compo_11A{
+    background-color: rgb(64, 62, 62);
+    border-radius: 15%;
+    
+    max-width: 15vw;
+    min-height: 16vw;
+    
+   
+    
+     margin-top: 0vw;
+     margin-left: 18px;
+     padding: 17px;
+     padding-left: 4vw;
+     position: relative;
+     top: -26vw;
+
+
+     
+        
+    
+}
+.compo_11B{
+    border: 2px solid ;
+    height: 7vw;
+    width: 7vw;
+    border-radius: 50%;
+    background-color: orange;
+    position: absolute;
+    left: 4.5vw;
+    top: 6vw;
+    
+}
+.compo_11C{
+  
+    position: relative;
+    top: 6.5vw;
+    
+}
+
+.App{
+    padding-top: 20px;
+   
+}

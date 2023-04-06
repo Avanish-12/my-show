@@ -1,0 +1,23 @@
+.compo_4A{
+    background-color: rgb(64, 62, 62);
+    border-radius: 15%;
+    
+    min-width: 17vw;
+    min-height: 24vw;
+    
+   
+    
+     margin-top: 0vw;
+     margin-left: 30px;
+     padding: 22px;
+     position: relative;
+     top: -25vw;
+
+     
+        
+    
+}
+.App{
+    padding-top: 20px;
+   
+}
